@@ -9,6 +9,7 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  background-image:
 }
 h2 {
   font-size: 32px;
@@ -18,16 +19,17 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+.flatironimg {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
 p {
   font-size: 14px;
 }
 a {
   color: white;
-}
-.tagline {
-  font-size: 23px;
-  font-weight: bold;
-  color: white
 }
 footer {
   font-size: 11px;
